@@ -1,0 +1,26 @@
+{
+  "name": "img-resizer",
+  "version": "1.0.0",
+  "description": "resizer the image to limit size.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kajweb/img-resizer.git"
+  },
+  "keywords": [
+    "image",
+    "resize"
+  ],
+  "author": "kajweb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kajweb/img-resizer/issues"
+  },
+  "homepage": "https://github.com/kajweb/img-resizer#readme",
+  "dependencies": {
+    "images": "^3.2.3"
+  }
+}
