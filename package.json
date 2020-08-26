@@ -1,5 +1,5 @@
 {
-  "name": "img-resizer",
+  "name": "image-cycle-resizer",
   "version": "1.0.0",
   "description": "resizer the image to limit size.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kajweb/img-resizer.git"
+    "url": "git+ssh://git@github.com/kajweb/image-cycle-resizer.git"
   },
   "keywords": [
     "image",
@@ -17,9 +17,9 @@
   "author": "kajweb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kajweb/img-resizer/issues"
+    "url": "https://github.com/kajweb/image-cycle-resizer/issues"
   },
-  "homepage": "https://github.com/kajweb/img-resizer#readme",
+  "homepage": "https://github.com/kajweb/image-cycle-resizer#readme",
   "dependencies": {
     "images": "^3.2.3"
   }

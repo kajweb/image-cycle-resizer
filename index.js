@@ -3,7 +3,7 @@ var images = require("images"),
 	fs = require("fs"),
 	deepCopy = require("./deepCopy");
 
-class imgResizer{
+class ImageCycleResizer{
 	// var image;
 	// var limit;
 	// var step;
@@ -107,4 +107,4 @@ class imgResizer{
 	}
 }
 
-module.exports = imgResizer;
+module.exports = ImageCycleResizer;
